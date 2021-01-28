@@ -20,6 +20,7 @@ namespace ClassMetotDemo
                 "Doğum Yeri: "+musteri.doğumYeri+ Environment.NewLine +
                "Id: "+ musteri.Id+ Environment.NewLine +
                 "İletişim: "+musteri.telNo+ Environment.NewLine + "------------------------");
+      
         }
 
 
